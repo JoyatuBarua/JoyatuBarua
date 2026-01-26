@@ -1,9 +1,18 @@
-Hi there 👋
+# *Hi there 👋*
 
-I'm Joyatu Barua, a cross-platform application developer based in Bangladesh.
+## I'm Joyatu Barua, a cross-platform application developer based in Bangladesh.
 
-I design, build and ship safe and scalable cross-platform applications.
+### I design, build and ship safe and scalable cross-platform applications.
 
-My main tech stack is flutter and for backend I use Firebase.
+### Love to code in:  
+![image alt](/assets/icons/Dart.svg)
+![image alt](/assets/icons/Flutter.svg)
+![image alt](assets/icons/FireBase.svg)
+![image alt](/assets/icons/RestAPI.svg)
+![image alt](/assets/icons/MySQL.svg)  
 
-I am currently learning Docker, a containerization & deployment technology.
+### Favouritte Tools
+![image alt](/assets/icons/VisualStudioCode.svg)
+![image alt](/assets/icons/AndroidStudio.svg)
+![image alt](/assets/icons/Git.svg)
+![image alt](/assets/icons/Docker.svg)
