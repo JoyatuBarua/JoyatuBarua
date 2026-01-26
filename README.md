@@ -1,6 +1,6 @@
 # *Hi there 👋*
 
-## I'm Joyatu Barua, a cross-platform application developer based in Bangladesh.
+## I'm Joyatu Barua, a *Cross-Platform App Developer* based in Bangladesh.
 
 ### I design, build and ship safe and scalable cross-platform applications.
 
