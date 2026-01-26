@@ -4,7 +4,7 @@
 
 ### I design, build and ship safe and scalable cross-platform applications.
 
-### I Love to code in:  
+### Love to code in:  
 ![image alt](/assets/icons/Dart.svg)
 ![image alt](/assets/icons/Flutter.svg)
 ![image alt](assets/icons/FireBase.svg)
