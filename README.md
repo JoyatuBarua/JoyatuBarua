@@ -1,7 +1,7 @@
 ## <p align="center">*Hi there 👋 I'm Joyatu Barua*</p>
 ## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Flutter+App+Developer+From+Bangladesh)](https://git.io/typing-svg) </p>
 
-👨🏻‍💻 A software engineer with a passion for problem solving inspired to create digital solutions for problems that matter.
+👨🏻‍💻 A software engineer with a passion for problem solving inspired to create digital solutions that matter.
 
 ⚒️ I design, build and ship safe and scalable cross-platform applications with clean architecture, efficient state management, backend integration and with scalability in mind.
 
