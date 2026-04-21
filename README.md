@@ -3,7 +3,7 @@
 
 👨🏻‍💻 A software engineer with a passion for problem solving inspired to create digital solutions that matter.
 
-⚒️ I design, build and ship safe and scalable cross-platform applications with clean architecture, efficient state management, backend integration and with scalability in mind.
+⚒️ I design, build and ship safe and scalable cross-platform applications using Flutter with clean architecture, efficient state management, backend integration and with scalability in mind.
 
 🤝🏻 Open to collaborate on open-source projects
 
