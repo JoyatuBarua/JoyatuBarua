@@ -1,5 +1,7 @@
-## <p align="center">*Hi there 👋 I'm Joyatu Barua*</p>
+## <p align="center">*Hi there 👋 I'm Joyatu Barua* </p>
 ## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Flutter+App+Developer+From+Bangladesh)](https://git.io/typing-svg) </p>
+
+<img src="https://komarev.com/ghpvc/?username=JoyatuBarua&style=flat-square" alt="Profile Views" />
 
 👨🏻‍💻 A software engineer with a passion for problem solving inspired to create digital solutions that matter.
 
