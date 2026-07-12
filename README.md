@@ -30,7 +30,8 @@
 ![image alt](/assets/icons/Flutter.svg)
 ![image alt](assets/icons/FireBase.svg)
 ![image alt](/assets/icons/RestAPI.svg)
-![image alt](/assets/icons/MySQL.svg)  
+![image alt](/assets/icons/MySQL.svg) 
+![image alt](/assets/icons/Riverpod.svg)
 
 ### Favourite Tools:
 ![image alt](/assets/icons/VisualStudioCode.svg)
