@@ -14,7 +14,7 @@
 <br>
 
 ### 🧠 Currently learning:  
-#### - Linux CLI | GraphQL | Provider | Supabase
+#### - Linux CLI | GraphQL | Riverpod | Supabase | On-device AI
 
 
 ### ✨ Other interests:  
