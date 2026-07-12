@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="200" viewBox="0 0 204 200">
+  <g id="Figma" transform="translate(15159 9089)">
+    <!-- Outer Container (None fill) -->
+    <rect id="Rectangle_175" width="204" height="200" rx="11" transform="translate(-15159 -9089)" fill="none"/>
+    
+    <!-- White Card Background -->
+    <rect id="Rectangle_176" width="176" height="176" rx="13" transform="translate(-15146 -9076)" fill="#fff"/>
+    
+    <!-- Figma Logo Shapes (Centered perfectly inside the 176x176 card) -->
+    <!-- Top-Left Semicircle/Pill -->
+    <path d="M -15058 -9060 h -24 a 24 24 0 0 0 0 48 h 24 z" fill="#FE3737"/>
+    
+    <!-- Top-Right Circle -->
+    <circle cx="-15034" cy="-9036" r="24" fill="#FE7237"/>
+    
+    <!-- Middle-Left Semicircle/Pill -->
+    <path d="M -15058 -9012 h -24 a 24 24 0 0 0 0 48 h 24 z" fill="#874FFF"/>
+    
+    <!-- Middle-Right Circle -->
+    <circle cx="-15034" cy="-8988" r="24" fill="#00B6FF"/>
+    
+    <!-- Bottom-Left Teardrop -->
+    <path d="M -15058 -8964 h -24 a 24 24 0 1 0 24 24 v -24 z" fill="#24CA71"/>
+  </g>
+</svg>
