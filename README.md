@@ -4,9 +4,12 @@
 
 ## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3000&lines=Flutter+App+Developer+From+Bangladesh)](https://git.io/typing-svg) </p>
 
+<h4 align="center">It always seems impossible, until it's done!</h4>
+
 <img src="https://komarev.com/ghpvc/?username=JoyatuBarua&style=flat-square" alt="Profile Views" />
 
-👨🏻‍💻 A software engineer with a passion for problem solving inspired to create digital solutions that matter.
+
+👨🏻‍💻 An enthusiastic software developer with a passion for problem solving inspired to create digital solutions that matter!
 
 ⚒️ I design, build and ship safe and scalable cross-platform applications using Flutter with clean architecture, efficient state management, backend integration and with scalability in mind.
 
@@ -45,7 +48,6 @@
 ![image alt](/assets/icons/PostmanIcon.svg)
 ![image alt](/assets/icons/ArduinoIde.svg)
 ![image alt](/assets/icons/FigmaLogo.svg)
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
