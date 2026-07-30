@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=3587f9&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joyatu+Barua!" />
 </h1>
 
-## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3000&lines=Flutter+App+Developer+From+Bangladesh)](https://git.io/typing-svg) </p>
+## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3000&lines=Flutter+App+Developer)](https://git.io/typing-svg) </p>
 
 <h4 align="center">It always seems impossible, until it's done!</h4>
 
