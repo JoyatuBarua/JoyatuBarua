@@ -20,8 +20,10 @@
 <br>
 
 ### 🧠 Currently learning:  
-#### - Linux CLI | GraphQL | Riverpod | Supabase | On-device AI
+#### - Linux CLI | GraphQL | Riverpod | Supabase | On-device AI | Diffusion Models
 
+### 🛠 Currently Working on:  
+#### - Hermes Agent | CortexCalc: Omni Calculator
 
 ### ✨ Other interests:  
 ####  - AI | IoT | Robotics | Embedded Systems
