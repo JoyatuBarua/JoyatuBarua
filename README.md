@@ -23,7 +23,7 @@
 #### - Linux CLI | GraphQL | Riverpod | Supabase | On-device AI | Diffusion Models
 
 ### 🛠 Currently Working on:  
-#### - Hermes Agent | CortexCalc: Omni Calculator
+#### - CortexCalc: Omni Calculator | Kenakata App
 
 ### ✨ Other interests:  
 ####  - AI | IoT | Robotics | Embedded Systems
